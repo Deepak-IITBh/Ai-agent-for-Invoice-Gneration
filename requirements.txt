@@ -1,0 +1,6 @@
+streamlit
+ollama
+pydantic
+pandas
+groq
+python-dotenv
